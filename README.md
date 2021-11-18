@@ -2,8 +2,9 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=069446&labelColor=000000">
 </p>
-
+<p align="center">
 <img src="https://github.com/PedroCastilhos/Calculator-JavasCritp/blob/main/img.png?raw=true" alt="printscreen">
+</p>
 
 ## 💻 Project
 
