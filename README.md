@@ -23,3 +23,7 @@ This project was developed with the technologies above:
 - Clone the repository
 - Execute the file 'index.html'
 - Or click on this [link](https://pedrocastilhos.github.io/Calculator-JavasCritp/)
+
+---
+
+Made with ♥ by Pedro Castilhos and Compass UOL
